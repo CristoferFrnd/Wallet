@@ -2,4 +2,4 @@
 php artisan migrate:fresh
 
 # Run Seeds
-php artisan db:seed --force
+php artisan db:seed
